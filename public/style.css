@@ -1,0 +1,178 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: black;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+.text__secondary {
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+}
+
+/* Header */
+
+i {
+  color: #923292;
+}
+
+header {
+  min-height: 10vh;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 10px 6px 10px 6px;
+}
+
+.header__items {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  max-width: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.header__item {
+  margin-right: -2rem;
+  font-size: 35px;
+}
+
+/* 
+section header
+*/
+
+.section__header__text {
+  display:  flex;
+  margin-right: auto;
+  justify-content: left;
+  
+}
+
+.section__haeder__item {
+  padding-right: 0.5rem;
+}
+
+.text {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  color: #33374E;
+}
+
+h1 {
+  font-size: 44px;
+  font-weight: bold;
+}
+
+.text__secondary {
+  color: #797B86;
+  line-height: 150%;
+}
+
+.pd__left {
+  padding-left: 1rem;
+}
+
+.cart__container {
+  width: 800px;
+}
+
+.cart__header__container {
+  display: flex;
+  align-items: center;
+}
+
+.text__right {
+  margin-left: auto;
+}
+
+/* cart and total */
+
+/* .cart__item,
+.item__buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.item__buttons {
+  margin: 3rem;
+}
+
+.cart__items {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.cart__container {
+  max-width: 1000px;
+}
+
+.cart__total {
+  background: #EEF1F4;
+  width: 425px;
+  height: 458px;
+  border-radius: 5px;
+} */
+
+/* .item__btn {
+  text-align: center;
+  padding: 8px 14px 8px 14px;
+  border: none;
+  background: #EEF1F4;
+  margin: 0.1rem;
+}
+
+.cart__total__container {
+  padding: 1.5rem;
+}
+
+.cart__total__text {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cart__total__btn {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+.primary__btn {
+  background: #0069B4;
+  color: #ffffff;
+  font-size: 18px;
+  margin-bottom: 0.5rem;
+}
+
+.primary__btn,
+.secondary__btn {
+  padding: 14px 0 14px 0;
+  border-radius: 5px;
+}
+
+.secondary__btn {
+  background: none;
+  color: #0069B4;
+  border: 1px solid #0069B4;
+  font-size: 18px;
+}
+
+.line__top {
+  border-top: 1px solid #AEB0B6;
+}
+
+.item__price {
+  position: relative;
+  right: 14.5%;
+  top: 2rem;
+} */
+
